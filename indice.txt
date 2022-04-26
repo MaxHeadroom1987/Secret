@@ -1,0 +1,3 @@
+Depuis quel endroit le hacker a piraté le signal ? 
+Le mdp est le numéro de téléphone de la résidence
+( format : +X XXX-XXX-XXXX )
